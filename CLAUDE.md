@@ -8,24 +8,8 @@
 - **X**: @MuscleGirlLove7
 - **Patreon**: https://www.patreon.com/MuscleLove
 
-## 選手リスト（記事ネタ用）
-
-### 日本選手
-| 選手名 | 階級 | 主な実績 |
-|--------|------|----------|
-| 竹中 絢音 | 55kg級 | 2023 WAF世界選手権優勝、全日本男子の部優勝 |
-| 芝岡 美津穂 | 50kg以下級 | 第31回JAWA全日本選手権優勝、アジア代表 |
-| 北條 葵 | ジュニア | 全日本選手権出場の高校生選手、両親がアームレスラー |
-| 市川 志津子 | 63kg級(マスターズ) | 2023年世界大会60歳以上63kg級右腕で世界王者 |
-| 山田 よう子 | 50kg級 | 2005年WAF世界選手権で日本人女性初の世界王者 |
-
-### 海外選手
-| 選手名 | 国 | 主な実績 |
-|--------|-----|----------|
-| ガブリエラ・ヴァスコンセロス | ブラジル | WAFシニア28冠+ジュニア6冠=計34冠、「鉄の天使」 |
-| バルボラ・バイチョヴァ | チェコ | EvW右腕ヘビー級世界タイトル、ヴァスコンセロスに勝利 |
-| イリーナ・グラディシェワ | ロシア | WAF世界選手権複数回優勝 |
-| サラ・バックマン | スウェーデン | 元世界王者、若くして複数タイトル獲得 |
+## 掲載対象（ロスター）
+記事対象の選手リストは必ず `references/roster.md` を読んで参照すること。リストの追加・更新もそのファイルに対して行う。
 
 ## 記事カテゴリー
 1. **選手紹介** - 国内外の女子アームレスリング選手のプロフィール・インタビュー
@@ -68,6 +52,7 @@
     <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
       <a href="https://x.com/MuscleGirlLove7" target="_blank" rel="noopener" style="display:inline-block;padding:10px 18px;background:#1d9bf0;color:#fff;border-radius:6px;font-weight:800;text-decoration:none;">X @MuscleGirlLove7</a>
       <a href="https://www.patreon.com/MuscleLove" target="_blank" rel="noopener" style="display:inline-block;padding:10px 18px;background:#ff424d;color:#fff;border-radius:6px;font-weight:800;text-decoration:none;">Patreon 限定コンテンツ</a>
+      <a href="https://musclelove-games.vercel.app/?utm_source=blog&amp;utm_medium=promo_card&amp;utm_campaign=armwrestling-girls-navi" target="_blank" rel="noopener" style="display:inline-block;padding:10px 18px;background:#22c55e;color:#0b1220;border-radius:6px;font-weight:800;text-decoration:none;">🎮 無料ゲーム95本</a>
     </div>
   </div>
 </section>
@@ -111,4 +96,4 @@
 - EvW Sports: https://evwsports.com/
 
 ## 広告カード必須ルール
-- 全記事とindex.htmlのフッター直前に MuscleLove広告カード（ML_PROMO_CARDマーカー）を必ず含める（テンプレのカードHTML参照）。
+- 全記事とindex.htmlのフッター直前に MuscleLove広告カード（ML_PROMO_CARDマーカー）を必ず含める（テンプレのカードHTML参照）。広告カードにはX / Patreon / ゲームポータルの3導線を必ず入れる。
